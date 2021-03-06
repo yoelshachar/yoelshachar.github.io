@@ -1,0 +1,23 @@
+
+<svg viewBox="0 0 107 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00D5FF" offset="0%"></stop>
+            <stop stop-color="#00ABFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M30.4309717,10.0377514 L79.2640858,14.2841091 C84.6769186,14.7547902 88.7235799,19.4612924 88.3774805,24.8835166 L86.6338324,52.2006694 C86.2832662,57.6928727 81.5608048,61.8695812 76.0669214,61.5464116 L27.8050236,58.7074765 C22.3616024,58.3872752 18.178184,53.7652033 18.4005633,48.316909 L19.572995,19.5923336 C19.7982298,14.0740808 24.4542464,9.78324192 29.9724992,10.0084767 C30.1255274,10.0147228 30.2783919,10.0244836 30.4309717,10.0377514 Z" id="path-2"></path>
+        <filter x="-49.1%" y="-43.6%" width="198.3%" height="233.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+        </g>
+        <polygon id="Path-2-Copy" fill="#FFFFFF" points="18 72 33 41 42 50 50 37 57 44 70 17 64 17 81 0 78 26 75 19 57 51 52 44 41 57 35 49"></polygon>
+        <polygon id="Path-2" fill="#C2ECFF" points="18 72 33 41 41 50 50 37 56 44 69 17 63 17 80 0 78 26 74 19 57 51 51 44 41 57 34 49"></polygon>
+    </g>
+</svg>

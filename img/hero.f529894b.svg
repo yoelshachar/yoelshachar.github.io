@@ -1,0 +1,38 @@
+<svg viewBox="0 0 614 636" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="1094" y="366" width="220" height="282" rx="15"></rect>
+        <filter x="-63.0%" y="-26.1%" width="225.9%" height="204.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="82" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="828" y="235" width="246" height="263" rx="15"></rect>
+        <filter x="-56.3%" y="-27.9%" width="212.6%" height="211.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="82" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="912" y="518" width="162" height="207" rx="15"></rect>
+        <filter x="-85.5%" y="-35.5%" width="271.0%" height="242.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="82" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-764.000000, -235.000000)" fill-rule="nonzero">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#282E35" xlink:href="#path-1"></use>
+            </g>
+            <g id="Rectangle-Copy">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#282E35" xlink:href="#path-3"></use>
+            </g>
+            <g id="Rectangle-Copy-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#282E35" xlink:href="#path-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>

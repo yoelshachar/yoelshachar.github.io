@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="312px" height="225px" viewBox="0 0 312 225" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-79.3%" y="-136.4%" width="258.7%" height="372.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="32" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="27" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#00AEFF" offset="0%"></stop>
+            <stop stop-color="#0076FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" filter="url(#filter-1)" transform="translate(52.000000, 20.000000)" fill-rule="nonzero">
+            <path d="M86.8737617,74.8882521 L124.570864,74.8882521 C129.410837,82.3908872 137.924539,87.3696275 147.619101,87.3696275 C162.688648,87.3696275 174.90493,75.3396855 174.90493,60.5 C174.90493,45.6603145 162.688648,33.6303725 147.619101,33.6303725 C136.226884,33.6303725 126.465307,40.5054825 122.379571,50.2722058 L86,50.2722063 C90.9351216,21.7297054 116.172069,0 146.562875,0 C180.493662,0 208,27.0867726 208,60.5 C208,93.9132274 180.493662,121 146.562875,121 C117.666873,121 93.4302022,101.355322 86.8737617,74.8882521 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+            <path d="M104.063119,104.069368 C93.0156229,114.552883 77.9909383,121 61.4371246,121 C27.5063376,121 0,93.9132274 0,60.5 C0,27.0867726 27.5063376,0 61.4371246,0 C91.8279307,0 117.064878,21.7297054 122,50.2722063 L85.6204291,50.2722058 C81.5346928,40.5054825 71.7731163,33.6303725 60.3808989,33.6303725 C45.3113517,33.6303725 33.09507,45.6603145 33.09507,60.5 C33.09507,75.3396855 45.3113517,87.3696275 60.3808989,87.3696275 C70.0754606,87.3696275 78.5891629,82.3908872 83.4291358,74.8882521 L87,74.8882521 C89.8004159,86.1929842 95.8263295,96.2530713 104.063119,104.069368 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
